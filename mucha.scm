@@ -1,0 +1,6 @@
+(include "src/core.scm")
+(include "src/extra.scm")
+(initialize!)
+(run-prelude)
+(main)
+(exit)
